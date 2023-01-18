@@ -9,7 +9,11 @@
 **Passos para instalação:**
 
 * Clonar branch do github
-* Rodar o comando no diretório raiz do projeto
+* Rodar dois comandos no diretório raiz do projeto
+```php tinker commands
+    composer install
+```
+* Após instalar as depêndencia de esse comando
 ```php tinker commands
     ./vendor/bin/sail up -d
 ```
