@@ -1,6 +1,6 @@
 **Observação:**
 
->Conseguir obter o token e fazer todo o fluxo de **crawler** necessário para obter a resposta, mas fui barrado pelo CSRF. Busquei e pesquisei muito sobre como resolver essa questão, sempre retorna **"Forbidden"**; Fico triste por não atingir o objetivo, mesmo passando ou não na entrevista peço 5 minutos para me ensinar como passar por esse impedimento, quero evoluir com isso. Dei meu máximo nos outros requisitos, espero que curtão!
+>Consegui obter o token e fazer todo o fluxo de **crawler** necessário para obter a resposta, mas fui barrado pelo CSRF. Busquei e pesquisei muito sobre como resolver essa questão, sempre retorna **"Forbidden"**; Fico triste por não atingir o objetivo, mesmo passando ou não na entrevista peço 5 minutos para me ensinar como passar por esse impedimento, quero evoluir com isso. Dei meu máximo nos outros requisitos, espero que curtão!
 
 * O projeto foi pensado em você, rápido e simples para ser testado.
 
