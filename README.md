@@ -11,7 +11,7 @@
 * Clonar branch do github
 * Rodar dois comandos no diretório raiz do projeto
 ```php tinker commands
-    composer install
+    composer update
 ```
 * Após instalar as depêndencia de esse comando
 ```php tinker commands
